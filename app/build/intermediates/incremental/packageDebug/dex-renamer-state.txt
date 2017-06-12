@@ -1,0 +1,7 @@
+#Tue Jun 13 02:35:19 ICT 2017
+base.0=D\:\\document dhimas\\android studio\\Organization-Hub-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9453410cddcd52e23ddaca3adbca520cd9234c46
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\document dhimas\\android studio\\Organization-Hub-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c526dedadb642807dd8c5a15d6e0eb12f9b91f3c\\classes.dex
+base.1=D\:\\document dhimas\\android studio\\Organization-Hub-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c526dedadb642807dd8c5a15d6e0eb12f9b91f3c
+file.0=D\:\\document dhimas\\android studio\\Organization-Hub-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9453410cddcd52e23ddaca3adbca520cd9234c46\\classes.dex

@@ -1,0 +1,477 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:12:5-66:19
+MERGED from [com.google.android.gms:play-services:9.0.2] C:\Users\GLADIATOR\.android\build-cache\8d3807657b5b714e582b963091736cef61713611\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\08c98d9b7dcba4dce53d24473b6167f83ff082f8\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4b12b28f099369995afacb4194eec38dd2814244\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\GLADIATOR\.android\build-cache\d3fc5f6c3e8292dce3598a19e5a5a3af5f5ffb85\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\GLADIATOR\.android\build-cache\d4a962c8bad4529afcb1bae6249c61ddbad6fd96\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\GLADIATOR\.android\build-cache\43294770a0a14b563e9d5be1883b325cc1ec67aa\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\GLADIATOR\.android\build-cache\1187ece06105872f76f3208779a788469f0096c7\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-config:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e05b3e02c97b18a2bd40e9f8ef5c9bd1d35b28be\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6f58f067857f5874c7f86485ef28d0605676f49\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\ff53741621a630fc679cc36c909c886956ff3c11\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3440f88b81414624150f94e6e7a53bf5be0dc164\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3de44cd41584d5054d383f1e95b8d3b29216cb76\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e73c19c3cd225f177e6a354f7900c4c05958ae77\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.0.2] C:\Users\GLADIATOR\.android\build-cache\9f7ba70c110eebcb507ca839f90494cadac30625\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.0.2] C:\Users\GLADIATOR\.android\build-cache\ae70506e6c31381cb4e462b8b08cd6748a423476\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\GLADIATOR\.android\build-cache\35068cb4878081049a811b7be560e54dabd88d89\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.2] C:\Users\GLADIATOR\.android\build-cache\02c966bd44ddd1981fd26f75f61077a8a8527ceb\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d91aa56dfa7906175c40797665b8afa9d992ddac\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.0.2] C:\Users\GLADIATOR\.android\build-cache\9f33abbdf4fd74f75d027acce3317ed20c555340\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3032e937d973c2e03e483e3cf25a90eb6814e40f\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e693fe2f3a1dc362d583553e3fbfa835d59554fe\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.0.2] C:\Users\GLADIATOR\.android\build-cache\515962e14d59aa67cc883be2595d014a356d0ccc\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.0.2] C:\Users\GLADIATOR\.android\build-cache\955ae4e33708259bf7fc4456c78931f466e5a5ac\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e23cdf74954aaeaa955068334bc03d6f651ef696\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4b3478bfd7251eb4fac61c7df2b920d2354a6b86\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-vision:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4df67f8fb3f05c6b71dba1a93b130f165c83fe5c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d3f268c62fddf2fce37b45d61b3632168464cd46\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\GLADIATOR\.android\build-cache\786dc173d17fe8407528d7aa2be10ac6260d4b9d\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6af5a62e01c21d7a760c21f1a4c7cac8f3fa2dc\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d0f73d8c35ccf8044bca88e2d028c0573bb86b6f\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b5bfbe5ae4d8a745dbc500290d555c74b979dc3f\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d654ed06b1f6eab4495b2fe3e60deb69e40f4bb4\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\GLADIATOR\.android\build-cache\a6c2ae424dd3ec75ba2fb4f46650e454dfcf5199\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\GLADIATOR\.android\build-cache\1141929053d44136ff0d9398f3b4b80c376784ea\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:allowBackup
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:14:9-40
+	android:theme
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.hi_tech1.swipe.Splash
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:19:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.hi_tech1.swipe.HomePage
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:27:19-43
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:28:13-32:29
+category#android.intent.category.DEFAULT
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:31:27-73
+activity#com.example.hi_tech1.swipe.Login
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:34:9-43
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:34:19-40
+activity#com.example.hi_tech1.swipe.Update
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:35:9-44
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:35:19-41
+activity#com.example.hi_tech1.swipe.Delete
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:36:9-44
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:36:19-41
+activity#com.example.hi_tech1.swipe.Regestration
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:37:9-50
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:37:19-47
+activity#com.example.hi_tech1.swipe.UserFirstLogin
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:38:9-52
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:38:19-49
+activity#com.example.hi_tech1.swipe.AdminWork
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:39:9-47
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:39:19-44
+activity#com.example.hi_tech1.swipe.Display
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:40:9-45
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:40:19-42
+activity#com.example.hi_tech1.swipe.UserDisplay
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:41:9-49
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:41:19-46
+activity#com.example.hi_tech1.swipe.LoginMainActivity
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:42:9-55
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:42:19-52
+activity#com.example.hi_tech1.swipe.List
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:43:9-42
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:43:19-39
+activity#com.example.hi_tech1.swipe.ngodisplay
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:44:9-48
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:44:19-45
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:54:9-56:55
+	android:value
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:56:13-52
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:55:13-58
+activity#com.example.hi_tech1.swipe.AdminFistEntry
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:58:9-52
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:58:19-49
+activity#com.example.hi_tech1.swipe.Orphanage
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:59:9-47
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:59:19-44
+activity#com.example.hi_tech1.swipe.OldAge
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:60:9-44
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:60:19-41
+activity#com.example.hi_tech1.swipe.ListOrphan
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:61:9-48
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:61:19-45
+activity#com.example.hi_tech1.swipe.ListOldAge
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:62:9-48
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:62:19-45
+activity#com.example.hi_tech1.swipe.MapsActivity
+ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:63:9-65:68
+	android:label
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml:64:13-41
+uses-sdk
+INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:9.0.2] C:\Users\GLADIATOR\.android\build-cache\8d3807657b5b714e582b963091736cef61713611\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.0.2] C:\Users\GLADIATOR\.android\build-cache\58eef76e211d3e017171b7fce327fb320d0b382f\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\08c98d9b7dcba4dce53d24473b6167f83ff082f8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4b12b28f099369995afacb4194eec38dd2814244\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\GLADIATOR\.android\build-cache\d3fc5f6c3e8292dce3598a19e5a5a3af5f5ffb85\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\GLADIATOR\.android\build-cache\d4a962c8bad4529afcb1bae6249c61ddbad6fd96\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\GLADIATOR\.android\build-cache\43294770a0a14b563e9d5be1883b325cc1ec67aa\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\GLADIATOR\.android\build-cache\1187ece06105872f76f3208779a788469f0096c7\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-config:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e05b3e02c97b18a2bd40e9f8ef5c9bd1d35b28be\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6f58f067857f5874c7f86485ef28d0605676f49\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\ff53741621a630fc679cc36c909c886956ff3c11\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3440f88b81414624150f94e6e7a53bf5be0dc164\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.2] C:\Users\GLADIATOR\.android\build-cache\a4b1428effdd17aa67c7b8a587eaa83e86b6ae9a\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c285bc7627575eacdeec5db01abb9fc6f5be2dfc\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.0.2] C:\Users\GLADIATOR\.android\build-cache\2c0f067fa1acba284d9b272c1edbec1061e79662\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3de44cd41584d5054d383f1e95b8d3b29216cb76\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.0.2] C:\Users\GLADIATOR\.android\build-cache\fa95ead966974bb45b97540fbf0d34581e565c6b\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\ad0de0fa2b6dd5a27e5c0975260a0d5afdfa1ec9\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e73c19c3cd225f177e6a354f7900c4c05958ae77\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.0.2] C:\Users\GLADIATOR\.android\build-cache\9f7ba70c110eebcb507ca839f90494cadac30625\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.0.2] C:\Users\GLADIATOR\.android\build-cache\ae70506e6c31381cb4e462b8b08cd6748a423476\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\GLADIATOR\.android\build-cache\35068cb4878081049a811b7be560e54dabd88d89\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.2] C:\Users\GLADIATOR\.android\build-cache\02c966bd44ddd1981fd26f75f61077a8a8527ceb\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d91aa56dfa7906175c40797665b8afa9d992ddac\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.0.2] C:\Users\GLADIATOR\.android\build-cache\9f33abbdf4fd74f75d027acce3317ed20c555340\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3032e937d973c2e03e483e3cf25a90eb6814e40f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e693fe2f3a1dc362d583553e3fbfa835d59554fe\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.0.2] C:\Users\GLADIATOR\.android\build-cache\515962e14d59aa67cc883be2595d014a356d0ccc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.0.2] C:\Users\GLADIATOR\.android\build-cache\8d9f44546029e3212e5344747c6270a7d9bc456e\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:9.0.2] C:\Users\GLADIATOR\.android\build-cache\955ae4e33708259bf7fc4456c78931f466e5a5ac\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e4e7712450c88c3b50853403d8ec450443f05b7d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e23cdf74954aaeaa955068334bc03d6f651ef696\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4b3478bfd7251eb4fac61c7df2b920d2354a6b86\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4df67f8fb3f05c6b71dba1a93b130f165c83fe5c\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d13c97b24a023aa825d5d942c44e6cdbe1afbf9a\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d3f268c62fddf2fce37b45d61b3632168464cd46\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\GLADIATOR\.android\build-cache\786dc173d17fe8407528d7aa2be10ac6260d4b9d\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6af5a62e01c21d7a760c21f1a4c7cac8f3fa2dc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d0f73d8c35ccf8044bca88e2d028c0573bb86b6f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b5bfbe5ae4d8a745dbc500290d555c74b979dc3f\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d654ed06b1f6eab4495b2fe3e60deb69e40f4bb4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\GLADIATOR\.android\build-cache\a6c2ae424dd3ec75ba2fb4f46650e454dfcf5199\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\GLADIATOR\.android\build-cache\1141929053d44136ff0d9398f3b4b80c376784ea\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\GLADIATOR\.android\build-cache\d4a962c8bad4529afcb1bae6249c61ddbad6fd96\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\document dhimas\android studio\Organization-Hub-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\08c98d9b7dcba4dce53d24473b6167f83ff082f8\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6f58f067857f5874c7f86485ef28d0605676f49\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\GLADIATOR\.android\build-cache\35068cb4878081049a811b7be560e54dabd88d89\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d91aa56dfa7906175c40797665b8afa9d992ddac\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e23cdf74954aaeaa955068334bc03d6f651ef696\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4b3478bfd7251eb4fac61c7df2b920d2354a6b86\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\GLADIATOR\.android\build-cache\786dc173d17fe8407528d7aa2be10ac6260d4b9d\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\08c98d9b7dcba4dce53d24473b6167f83ff082f8\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3032e937d973c2e03e483e3cf25a90eb6814e40f\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e23cdf74954aaeaa955068334bc03d6f651ef696\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4b3478bfd7251eb4fac61c7df2b920d2354a6b86\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\GLADIATOR\.android\build-cache\786dc173d17fe8407528d7aa2be10ac6260d4b9d\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:21:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c78351bc68ed5bf7eb7135ebe174b33bd3023dd6\output\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\08c98d9b7dcba4dce53d24473b6167f83ff082f8\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\e23cdf74954aaeaa955068334bc03d6f651ef696\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4b3478bfd7251eb4fac61c7df2b920d2354a6b86\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\08c98d9b7dcba4dce53d24473b6167f83ff082f8\output\AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.2] C:\Users\GLADIATOR\.android\build-cache\60d0e106a6eaa26ad00e8407a5077aae4c95f503\output\AndroidManifest.xml:26:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\GLADIATOR\.android\build-cache\cd8ff0d9043aea9c34d549056b339a6837c01929\output\AndroidManifest.xml:29:13-58
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6f58f067857f5874c7f86485ef28d0605676f49\output\AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6f58f067857f5874c7f86485ef28d0605676f49\output\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6f58f067857f5874c7f86485ef28d0605676f49\output\AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6f58f067857f5874c7f86485ef28d0605676f49\output\AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6f58f067857f5874c7f86485ef28d0605676f49\output\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b6f58f067857f5874c7f86485ef28d0605676f49\output\AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3de44cd41584d5054d383f1e95b8d3b29216cb76\output\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3de44cd41584d5054d383f1e95b8d3b29216cb76\output\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3de44cd41584d5054d383f1e95b8d3b29216cb76\output\AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3de44cd41584d5054d383f1e95b8d3b29216cb76\output\AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3de44cd41584d5054d383f1e95b8d3b29216cb76\output\AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3de44cd41584d5054d383f1e95b8d3b29216cb76\output\AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] C:\Users\GLADIATOR\.android\build-cache\3de44cd41584d5054d383f1e95b8d3b29216cb76\output\AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\GLADIATOR\.android\build-cache\35068cb4878081049a811b7be560e54dabd88d89\output\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d91aa56dfa7906175c40797665b8afa9d992ddac\output\AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\GLADIATOR\.android\build-cache\35068cb4878081049a811b7be560e54dabd88d89\output\AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.2] C:\Users\GLADIATOR\.android\build-cache\c02c04f73e5e2d7c440a22480ec861c8a772f6fb\output\AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4b3478bfd7251eb4fac61c7df2b920d2354a6b86\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\GLADIATOR\.android\build-cache\4b3478bfd7251eb4fac61c7df2b920d2354a6b86\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\GLADIATOR\.android\build-cache\f5b3237663918e8d337e4386acc8467f43011678\output\AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\GLADIATOR\.android\build-cache\348ec211b1de934e28a20a6b8c67d4cacc7b6ef8\output\AndroidManifest.xml:55:25-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\GLADIATOR\.android\build-cache\786dc173d17fe8407528d7aa2be10ac6260d4b9d\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\GLADIATOR\.android\build-cache\786dc173d17fe8407528d7aa2be10ac6260d4b9d\output\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\GLADIATOR\.android\build-cache\786dc173d17fe8407528d7aa2be10ac6260d4b9d\output\AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d0f73d8c35ccf8044bca88e2d028c0573bb86b6f\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d0f73d8c35ccf8044bca88e2d028c0573bb86b6f\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d0f73d8c35ccf8044bca88e2d028c0573bb86b6f\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\GLADIATOR\.android\build-cache\d0f73d8c35ccf8044bca88e2d028c0573bb86b6f\output\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b5bfbe5ae4d8a745dbc500290d555c74b979dc3f\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b5bfbe5ae4d8a745dbc500290d555c74b979dc3f\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b5bfbe5ae4d8a745dbc500290d555c74b979dc3f\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b5bfbe5ae4d8a745dbc500290d555c74b979dc3f\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\GLADIATOR\.android\build-cache\b5bfbe5ae4d8a745dbc500290d555c74b979dc3f\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\GLADIATOR\.android\build-cache\a6c2ae424dd3ec75ba2fb4f46650e454dfcf5199\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\GLADIATOR\.android\build-cache\a6c2ae424dd3ec75ba2fb4f46650e454dfcf5199\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\GLADIATOR\.android\build-cache\a6c2ae424dd3ec75ba2fb4f46650e454dfcf5199\output\AndroidManifest.xml:22:13-58

@@ -1,0 +1,4 @@
+#Mon Jun 12 23:57:56 ICT 2017
+base.0=D\:\\document dhimas\\android studio\\Organization-Hub-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=D\:\\document dhimas\\android studio\\Organization-Hub-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex
